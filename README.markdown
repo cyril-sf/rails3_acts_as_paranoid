@@ -220,6 +220,11 @@ This gem supports the most recent versions of Rails and Ruby.
 
 ## Rails
 
+For Rails 4 check the README at the [rails4.0](https://github.com/byroot/rails3_acts_as_paranoid/tree/rails4.0) branch and add this to your Gemfile:
+
+  gem 'rails3_acts_as_paranoid', github: 'byroot/rails3_acts_as_paranoid', branch: 'rails4.0'
+  
+
 For Rails 3.2 check the README at the [rails3.2](https://github.com/goncalossilva/rails3_acts_as_paranoid/tree/rails3.2) branch and add this to your Gemfile:
 
 	gem "acts_as_paranoid", "~>0.4.0"
